@@ -1,0 +1,30 @@
+# Multi-User AI-Mediated Chat Rooms / اتاق‌های چت چندکاربره با میانجی هوش مصنوعی
+
+**Author / نویسنده:** Seyed Heydar Alavimoghadam  
+**Date / تاریخ:** 2025-11-24
+
+---
+
+## Concept Overview / شرح ایده
+This repository documents the original idea of multi-user AI-mediated chat rooms. In this system:
+- Multiple real users can enter a shared chat environment.
+- AI (such as ChatGPT) acts as a mediator, facilitator, or neutral intelligence.
+- AI can summarize discussions, resolve conflicts, generate ideas, and enhance group productivity.
+
+این مخزن ایده اصلی اتاق‌های چت چندکاربره با میانجی هوش مصنوعی را ثبت می‌کند. در این سیستم:
+- چندین کاربر واقعی می‌توانند وارد محیط چت مشترک شوند.
+- هوش مصنوعی مانند ChatGPT به عنوان میانجی، تسهیل‌گر یا هوش بی‌طرف عمل می‌کند.
+- هوش مصنوعی می‌تواند گفتگوها را خلاصه، تعارض‌ها را حل، ایده‌ها را تولید و همکاری گروهی را بهبود بخشد.
+
+---
+
+## Files / فایل‌ها
+- `idea_proposal.pdf`: Original concept proposal PDF serving as timestamped proof of authorship  
+  PDF پیشنهادی ایده اصلی که به عنوان مدرک زمان‌دار مالکیت ثبت شده است.
+
+---
+
+## Statement of Originality / بیانیه اصالت
+This idea originates from Seyed Heydar Alavimoghadam and is publicly documented here to establish prior art and proof of conceptual authorship.
+
+این ایده متعلق به سید حیدر علوی مقدم است و به صورت عمومی در این مخزن ثبت شده تا سابقه مالکیت و اثبات ابتکار ایده حفظ شود.
